@@ -7,9 +7,7 @@ This project showcases my SQL skills acquired during an **IBM course**. Througho
 
 ---
 
-## Python Notebooks
-
-### 1. Python Exercise for Introductory Data Analysis
+## Python Exercise for Data Analysis
 
 This Jupyter Notebook showcases my Python skills for data analysis, including data manipulation and visualization. This notebook was part of a lab exercise given during the IBM course.
 
