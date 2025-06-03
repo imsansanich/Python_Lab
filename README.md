@@ -13,4 +13,4 @@ This section contains various Jupyter Notebooks, each demonstrating my Python sk
 ([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Python.ipynb))
 
 --- **[2nd Lab in Google Colab](https://colab.research.google.com/drive/1TYRNHzvK6_Djt3Y8KzRAQbWHa6bDsMaV?usp=sharing)**
-([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Practice_Assigment_1.ipynb))
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Practice_Assignment_1.ipynb))
