@@ -9,6 +9,7 @@ This section contains various Jupyter Notebooks, each demonstrating my Python sk
 
 **Important Note for Viewing:** GitHub's built-in viewer might not fully support interactive elements or large outputs within Jupyter Notebooks, which can sometimes cause flickering or display issues. For the most comfortable and accurate viewing experience, and to run the code yourself, please open these notebooks directly in Google Colab.
 
---- **[1st Lab in Google Colab](https://colab.research.google.com/drive/1Qn6tQBmsZjTBQzL1AXjsLm_KaBO0hSjO?usp=sharing)**.
-
-[View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Python.ipynb)
+--- **[1st Lab in Google Colab](https://colab.research.google.com/drive/1Qn6tQBmsZjTBQzL1AXjsLm_KaBO0hSjO?usp=sharing)**
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Python.ipynb))
+--- **[2nd Lab in Google Colab](https://colab.research.google.com/drive/1TYRNHzvK6_Djt3Y8KzRAQbWHa6bDsMaV?usp=sharing)**
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Practice_Assigment_1.ipynb))
