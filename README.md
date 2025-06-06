@@ -14,3 +14,6 @@ This section contains various Jupyter Notebooks, each demonstrating my Python sk
 
 --- **[2nd Lab in Google Colab](https://colab.research.google.com/drive/1TYRNHzvK6_Djt3Y8KzRAQbWHa6bDsMaV?usp=sharing)**
 ([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Practice_Assignment_1.ipynb))
+
+--- **[3rd Lab in Google Colab](https://colab.research.google.com/drive/1GmbrDcE8mK-9l022L2y3qmfysJMRj4mk?usp=sharing)**
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Analyzing_SQLite.ipynb))
