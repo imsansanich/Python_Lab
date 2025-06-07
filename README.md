@@ -20,3 +20,6 @@ This section contains various Jupyter Notebooks, each demonstrating my Python sk
 
 --- **[4th Lab in Google Colab](https://colab.research.google.com/drive/1-qeN0-7jvjb3oPvHdY3spouqqJ--6y3Z?usp=sharing)**
 ([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/Practice-v5_sqlite_Learner.ipynb))
+
+--- **[5th Lab in Google Colab](https://colab.research.google.com/drive/1ZXlrJl13t-smSoh7GIyHyk4sr-LcOvUs?usp=sharing)**
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/practice_data_wrangling.ipynb))
