@@ -26,3 +26,6 @@ This section contains various Jupyter Notebooks, each demonstrating my Python sk
 
 --- **[6th Lab in Google Colab](https://colab.research.google.com/drive/1XEGzfqXwNSfirdKQPiStp-CI9LbPMdwy?usp=sharing)**
 ([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/parctice_Exploratory_data_analysis.ipynb))
+
+--- **[7th Lab in Google Colab](https://colab.research.google.com/drive/1RyMhwyOjI4G0JqCL7TSuvVHbopFvY0oa?usp=sharing)**
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/practice_model_development_laptops.ipynb))
