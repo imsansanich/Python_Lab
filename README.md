@@ -23,3 +23,6 @@ This section contains various Jupyter Notebooks, each demonstrating my Python sk
 
 --- **[5th Lab in Google Colab](https://colab.research.google.com/drive/1ZXlrJl13t-smSoh7GIyHyk4sr-LcOvUs?usp=sharing)**
 ([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/practice_data_wrangling.ipynb))
+
+--- **[6th Lab in Google Colab](https://colab.research.google.com/drive/1XEGzfqXwNSfirdKQPiStp-CI9LbPMdwy?usp=sharing)**
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/parctice_Exploratory_data_analysis.ipynb))
