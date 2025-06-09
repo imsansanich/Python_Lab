@@ -29,3 +29,6 @@ This section contains various Jupyter Notebooks, each demonstrating my Python sk
 
 --- **[7th Lab in Google Colab](https://colab.research.google.com/drive/1RyMhwyOjI4G0JqCL7TSuvVHbopFvY0oa?usp=sharing)**
 ([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/practice_model_development_laptops.ipynb))
+
+--- **[8th Lab in Google Colab](https://colab.research.google.com/drive/1mwuP8-94uKsuLHxegnge1od4IX7jE284?usp=sharing)**
+([View Raw Notebook on GitHub](https://github.com/imsansanich/Python_Lab/blob/main/practice_model_evaluation.ipynb))
